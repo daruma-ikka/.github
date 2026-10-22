@@ -8,10 +8,6 @@ NAGOYA BOOST 2026で取り組むコミュニケーションAI「一日一歩」�
 
 ![スライド1：NAGOYA BOOST 2026 一日一歩 吉森大介](assets/slides/slide-01.png)
 
-![スライド2：NAGOYA BOOST 2026の紹介](assets/slides/slide-02.png)
-
-![スライド3：プログラムの流れ](assets/slides/slide-03.png)
-
 ![スライド4：吉森大介の自己紹介](assets/slides/slide-04.png)
 
 ![スライド5：一日一歩の構想と機能](assets/slides/slide-05.png)
