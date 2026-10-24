@@ -45,12 +45,12 @@ NAGOYA BOOST 2026で取り組むコミュニケーションAI「一日一歩」�
 ## 開発環境
 
 共通環境：VSCode、Github
+CI/CD：CloudRun
 
-チーム内LLM：
-
+チーム内生成AI：
 - ChatGPT Code Plus、Business
 - ChatGPT Code Plus
-- Claude Code 課金
+- Claude Code 課金 / Gemini
 
 モジュール別の作業環境です。
 
